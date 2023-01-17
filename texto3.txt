@@ -1,0 +1,5 @@
+La energía no se crea ni se destruye, se transforma.
+
+Añadir los cambios a la zona de intercambio temporal.
+
+Mostrar el estado del repositorio.
